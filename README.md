@@ -29,6 +29,7 @@
       </td>
     </tr>
   </table>
+  <p>And here are some unlabeled examples:</p>
   <table>
     <tr>
       <td colspan="1" rowspan="1">
@@ -40,7 +41,6 @@
     </tr>
   </table>
 
-And here are some unlabeled examples:  
   <p>The image names consist of the name of the person depicted (derived from the Labeled Faces in the Wild name for the file) followed by one of four tags:</p>
   <ul>
     <li>FHWH (Face Happy, Writing HAPPY): Smiling faces with “HAPPY” written across them.</li>
