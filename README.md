@@ -18,7 +18,7 @@
   <h1>The HappyFaces Benchmark</h1>
   <p>The aim of this benchmark is to encourage the design of classifiers that are capable of using multiple different features to classify the same image. The features themselves must be deduced by the classifiers without being specifically labeled, though they may use a large unlabeled dataset on which the features vary. We have constructed a benchmark where the features are very different: facial expressions versus written text.</p>
   <p>The images in these datasets consist of smiling (Happy) or non-smiling (Sad) faces. The images themselves come from the <a href="https://www.google.com/url?q=http://vis-www.cs.umass.edu/lfw/&amp;sa=D&amp;source=editors&amp;ust=1657100505520188&amp;usg=AOvVaw0fQULfKZdMEzhOCcvPCQS8">Labeled Faces in the Wild</a> dataset, a publicly available dataset of faces, annotated with names.). The sub-lists of smiling and non-smiling faces come from the <a href="https://www.google.com/url?q=https://data.mendeley.com/datasets/yz4v8tb3tp/5&amp;sa=D&amp;source=editors&amp;ust=1657100505520444&amp;usg=AOvVaw1UMsN_B3i1l3Dt7RIyEXKx">Dataset for Smile Detection from Face Images</a>.</p>
-  <p>The images are modified by randomly printing “HAPPY” or “SAD” in red letters upon the image. Here are some typical examples:</p>
+  <p>The images are modified by printing “HAPPY” or “SAD” in red letters upon the image. Here are some examples of the labeled data:</p>
   <table>
     <tr>
       <td colspan="1" rowspan="1">
@@ -40,7 +40,7 @@
     </tr>
   </table>
 
-  
+And here are some unlabeled examples:  
   <p>The image names consist of the name of the person depicted (derived from the Labeled Faces in the Wild name for the file) followed by one of four tags:</p>
   <ul>
     <li>FHWH (Face Happy, Writing HAPPY): Smiling faces with “HAPPY” written across them.</li>
