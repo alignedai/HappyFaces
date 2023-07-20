@@ -25,16 +25,22 @@
         <p><img alt="image5" src="images/image5.jpg"></p>
       </td>
       <td colspan="1" rowspan="1">
+        <p><img alt="image6" src="images/image6.jpg"></p>
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td colspan="1" rowspan="1">
         <p><img alt="image4" src="images/image4.jpg"></p>
       </td>
       <td colspan="1" rowspan="1">
         <p><img alt="image7" src="images/image7.jpg"></p>
       </td>
-      <td colspan="1" rowspan="1">
-        <p><img alt="image6" src="images/image6.jpg"></p>
-      </td>
     </tr>
   </table>
+
+  
   <p>The image names consist of the name of the person depicted (derived from the Labeled Faces in the Wild name for the file) followed by one of four tags:</p>
   <ul>
     <li>FHWH (Face Happy, Writing HAPPY): Smiling faces with “HAPPY” written across them.</li>
