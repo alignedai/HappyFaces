@@ -29,7 +29,7 @@
       </td>
     </tr>
   </table>
-  <p>And here are some unlabeled examples:</p>
+  <p>And here are some unlabeled examples that normal classifiers will misclassify:</p>
   <table>
     <tr>
       <td colspan="1" rowspan="1">
